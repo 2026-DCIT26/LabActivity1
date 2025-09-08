@@ -143,3 +143,4 @@ Each student must:
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
 
+\n## Additional Notes\nThis is an update.
