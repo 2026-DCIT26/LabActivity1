@@ -1,5 +1,7 @@
 # Laboratory Exercise 1: Introduction to Git and GitHub
 
+## Notes
+This is a test change to understand how branches work.
 ---
 
 ## Objective
